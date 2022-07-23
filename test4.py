@@ -5,3 +5,4 @@ mydb = abc.connect(host = "localhost" , user ="root", passwd ="Papa@9969" )
 cursor = mydb.cursor()
 
 ## Added comments
+##Adding new lines
